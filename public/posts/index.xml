@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on maleldil</title>
+    <link>www.maleldil.xyz/posts/</link>
+    <description>Recent content in Posts on maleldil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Nov 2022 18:06:43 +0100</lastBuildDate><atom:link href="www.maleldil.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on laziness</title>
+      <link>www.maleldil.xyz/posts/laziness/</link>
+      <pubDate>Wed, 23 Nov 2022 18:06:43 +0100</pubDate>
+      
+      <guid>www.maleldil.xyz/posts/laziness/</guid>
+      <description>Laziness is not simply a personality trait. Behind laziness there is always an erosion of will and a stolen enthusiasm for life that results in feelings of despair. This sense of despair; that something is not quite right, often eludes even the person afflicted. The lazy man does not work hard because he is convinced that the fruits of his labor will be stolen from him, and he does not believe that he will see adequate return on his investment.</description>
+    </item>
+    
+    <item>
+      <title>long days</title>
+      <link>www.maleldil.xyz/posts/post/</link>
+      <pubDate>Mon, 14 Nov 2022 06:18:43 +0100</pubDate>
+      
+      <guid>www.maleldil.xyz/posts/post/</guid>
+      <description>I&amp;rsquo;ve been in the habit of waking up at around 5 in the morning most days. I spend the first 10 or so minutes of my day simply getting dressed, making my bed and tidying up the things left around my room from the day before. Empty cans, clothes I have left lying on the floor or on my chair sometimes for days. For the first several hours of being awake I enjoy the solitude and quietness of early mornings.</description>
+    </item>
+    
+  </channel>
+</rss>
